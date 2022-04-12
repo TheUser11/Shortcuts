@@ -2,7 +2,7 @@
 
 > LiCuts 1.1 is still under development
 > That Updater has been rebranded to Hey! Updater
-> Download iCuts 2.2 [here](https://routinehub.co/shortcut/11364)
+> Download iCuts 2.2 today!
 
 # iCuts Release Notes
 
