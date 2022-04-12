@@ -3,6 +3,7 @@
 > LiCuts 1.1 is still under development
 > That Updater has been rebranded to Hey! Updater
 > Download iCuts 2.2 today!
+> iCuts 2.3 begins development
 
 # iCuts Release Notes
 
