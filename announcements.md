@@ -7,6 +7,10 @@
 
 # iCuts Release Notes
 
+## iCuts 2.3 planed features
+
+> - Shuffle feature
+
 ## iCuts 2.2 Release Notes
 > -Improved signing system
 > -Replaces Swing Updater with Hey! Updater
