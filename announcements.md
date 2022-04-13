@@ -2,7 +2,7 @@
 
 > - Hey! Updater 2.3.1 released!
 > - LiCuts 1.1 is still under development
-> - iCuts 2.3 begins development
+> - iCuts 2.3 Beta 1 released!
 
 # iCuts Release Notes
 
