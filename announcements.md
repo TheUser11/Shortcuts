@@ -9,6 +9,7 @@
 ## iCuts 2.3 planned features
 
 > - Shuffle feature
+> - Turn explicit conent on or off
 
 ## iCuts 2.2 Release Notes
 > - Improved signing system
