@@ -6,7 +6,7 @@
 
 # iCuts Release Notes
 
-## iCuts 2.3 planed features
+## iCuts 2.3 planned features
 
 > - Shuffle feature
 
