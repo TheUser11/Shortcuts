@@ -3,7 +3,7 @@
 > - Hey! Updater 2.3.1 released!
 > - LiCuts 1.1 is still under development
 > - iCuts 2.3 Beta 1 released!
-> - After lots of hard decision making, i've decided that iCuts 2.4 will be the last major release of iCuts. On top of this, LiCuts 1.3 will be the last major version of LiCuts. (Unless people want me to continue with my amazing work)
+> - After lots of hard decision making, i've decided that iCuts 2.3 will be the last major release of iCuts. On top of this, LiCuts 1.1 will be the last major version of LiCuts. (Unless people want me to continue with my amazing work)
 
 # iCuts Release Notes
 
