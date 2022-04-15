@@ -3,7 +3,7 @@
 > - Hey! Updater 2.3.1 released!
 > - LiCuts 1.1 is still under development
 > - iCuts 2.3 released!
-> - I am beta testing a new shortcut, and I would like a volunteer Email me for further steps
+> - I am beta testing a new shortcut, and I would like a volunteer. Email me if you want to join
 
 # iCuts Release Notes
 
