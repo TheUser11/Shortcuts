@@ -4,6 +4,7 @@
 > - LiCuts 1.1 is still under development
 > - iCuts 2.3 released!
 > - I am beta testing a new shortcut, and I would like a volunteer. Email me if you want to join
+> - iCuts 3.0 begins development
 
 # iCuts Release Notes
 
