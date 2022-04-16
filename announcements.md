@@ -8,6 +8,12 @@
 
 # iCuts Release Notes
 
+## iCuts 3.0 planned features
+
+> - Search song, album or artist
+> - Shazam it
+> - Download lyrics
+
 ## iCuts 2.3 features
 
 > - Shuffle feature
