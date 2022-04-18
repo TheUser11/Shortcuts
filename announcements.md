@@ -4,8 +4,7 @@
 > - LiCuts 1.1 is still under development
 > - iCuts 2.3 released!
 > - iCuts 3.0 is ready for beta testers! Email me if you want ot join! First three will be accepted!
-> - A spanish version of Hey! Updater is underway!
-
+> - A new Spanish version of Hey! Updater has been released!
 # iCuts Release Notes
 
 ## iCuts 3.0 planned features
