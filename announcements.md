@@ -5,6 +5,7 @@
 > - iCuts 2.3 released!
 > - iCuts 3.0 is ready for beta testers! Email me if you want ot join! First three will be accepted!
 > - A new Spanish version of Hey! Updater has been released!
+> - A new shortcut is almost here!
 # iCuts Release Notes
 
 ## iCuts 3.0 planned features
