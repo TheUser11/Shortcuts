@@ -1,11 +1,8 @@
 # Annoucements
 
 > - Hey! Updater 2.3.1 released!
-> - LiCuts 1.1 is still under development
-> - iCuts 2.3 released!
-> - iCuts 3.0 is ready for beta testers! Email me if you want ot join! First three will be accepted!
-> - A new Spanish version of Hey! Updater has been released!
-> - A new shortcut is almost here!
+> - Routease has been released!
+> - iControl 1.7 by @peter.ohlei (now @ShortcutFactory) is well underway.
 # iCuts Release Notes
 
 ## iCuts 3.0 planned features
