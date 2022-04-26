@@ -3,6 +3,8 @@
 > - Hey! Updater 2.3.1 released!
 > - Routease has been released!
 > - iControl 1.7 by @peter.ohlei (now @ShortcutFactory) is well underway.
+> - ShortEngine 1.1 released!
+
 # iCuts Release Notes
 
 ## iCuts 3.0 planned features
