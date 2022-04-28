@@ -14,6 +14,7 @@
 > - Download lyrics
 > - User system
 > - Offline Mode
+> - Option to install iCuts or LiCuts
 
 ## iCuts 2.3 features
 
