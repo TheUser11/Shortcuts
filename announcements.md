@@ -11,6 +11,8 @@
 > - Search song, album or artist
 > - Shazam it
 > - Download lyrics
+> - User system
+> - Offline Mode
 
 ## iCuts 2.3 features
 
