@@ -5,6 +5,7 @@
 > - Sorry for the wait- iCuts 3.0 should be released sometime in May.
 > - Since LiCuts hasn't been updated in forever, I've decided to merge iCuts and LiCuts and discontinue LiCuts. LiCuts will be no more on May 30 at 10:00 PM UTC. LiCuts will still be available after this day.
 > - iCuts 2.3.1 released
+> - iCuts 3.0 Beta 1 released on GitHub
 
 # iCuts Release Notes
 
