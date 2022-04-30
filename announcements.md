@@ -4,6 +4,7 @@
 > - ShortEngine 1.1 released!
 > - Sorry for the wait- iCuts 3.0 should be released sometime in May.
 > - Since LiCuts hasn't been updated in forever, I've decided to merge iCuts and LiCuts and discontinue LiCuts. LiCuts will be no more on May 30 at 10:00 PM UTC. LiCuts will still be available after this day.
+> - iCuts 2.3.1 released
 
 # iCuts Release Notes
 
@@ -15,6 +16,9 @@
 > - User system
 > - Offline Mode
 > - Option to install iCuts or LiCuts
+
+## iCuts 2.3.1 features
+> - Removes the remains of testing Hey! Updater | Spanish Edition
 
 ## iCuts 2.3 features
 
