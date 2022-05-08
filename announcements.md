@@ -15,7 +15,7 @@
 > - Download lyrics
 > - User system
 > - Offline Mode
-> - Option to install iCuts or LiCuts
+> - iCuts skins! Make iCuts your own.
 
 ## iCuts 2.3.1 features
 > - Removes the remains of testing Hey! Updater | Spanish Edition
