@@ -1,7 +1,7 @@
 # Annoucements
 
 > - iControl 1.7 by @peter.ohlei (now @ShortcutFactory) will release on June 6, 2022
-> - [CoolGuy Account Hub 1.7](https://routinehub.co/download/33009/) has released!
+> - CoolGuy Account Hub 2.0 planned to release with a whole new account system!
 > - Since LiCuts hasn't been updated in forever, I've decided to merge iCuts and LiCuts and discontinue LiCuts. LiCuts will be no more on May 30 at 10:00 PM UTC. LiCuts will still be available after this day.
 > - iCuts 3.0 will release on May 21, 2022
 > - [iCuts 3.0 Beta 2](https://github.com/TheUser11/Shortcuts/releases/tag/v3.0-beta.2) is out now!
