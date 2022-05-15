@@ -1,0 +1,17 @@
+{
+  "accounts": [
+    {
+      "username": "TheUser",
+      "salt": "xrmh8hef",
+      "password": "6475284b5f5c627a55e2cf0d8ad4b584ee0a8def8c23f8f0cc7d94fe4238144e",
+      "timer": 3000,
+      "messagesread": 1
+    }
+  ],
+  "messages": [
+    {
+      "sender": "Creator",
+      "message": "This is not RoutineChat"
+    }
+  ]
+}
