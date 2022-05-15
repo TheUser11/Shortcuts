@@ -1,0 +1,29 @@
+{
+  "name": "CoolAccount",
+  "version": "1.0",
+  "description": "An account system.",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "express": "^4.18.1",
+    "fs": "^0.0.2",
+    "chalk": "^5.0.1"
+  },
+  "engines": {
+    "node": "16.13.2"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/glitch-hello-node"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
