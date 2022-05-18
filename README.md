@@ -6,4 +6,4 @@ I publish them on [RoutineHub](https://routinehub.co/user/TheCoolGuy)
 
 You can download iCuts [here](https://github.com/TheUser11/Shortcuts/releases/download/v2.3.1/iCuts.shortcut)
 
-You can see progress of iCuts 3.0 [here](https://github.com/TheUser11/Shortcuts/projects/1)
+iCuts 3.0 will release on May 21, 2022
