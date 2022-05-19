@@ -346,6 +346,7 @@ app.get("/changepassword", async function (req, res) {
   res.send('{"status": "error", "info": "incorrect username or password"}');
 });
 
+
 //send 404 errors
 app.get("*", function (req, res) {
   res.status(404);
