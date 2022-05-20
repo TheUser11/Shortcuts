@@ -1,11 +1,8 @@
 # Annoucements
 
 > - iControl 1.7 by @peter.ohlei (now @ShortcutFactory) will release on June 6, 2022
-> - Since LiCuts hasn't been updated in forever, I've decided to merge iCuts and LiCuts and discontinue LiCuts. LiCuts will be no more on May 30 at 10:00 PM UTC. LiCuts will still be available after this day.
-> - iCuts 3.0 has finished development and will release on May 21, 2022
-> - After a few days of painful testing, development of CoolGuy Account Hub 2.0 begins!
-> - After long thought, iCuts skins have been canceled.
-
+> - LiCuts will be no more on May 30 at 10:00 PM UTC. LiCuts will still be available after this day.
+> - iCuts 3.0 will be released today at 7:00 PM UTC!
 # iCuts Release Notes
 
 ## iCuts 3.0 planned features
