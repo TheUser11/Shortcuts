@@ -2,7 +2,7 @@
 
 > - iControl 1.7 by @peter.ohlei (now @ShortcutFactory) will release on June 6, 2022
 > - LiCuts will be no more on May 30 at 10:00 PM UTC. LiCuts will still be available after this day.
-> - iCuts 3.0 will be released today at 7:00 PM UTC!
+> - iCuts 3.0 will be released today at 7:30 PM UTC!
 # iCuts Release Notes
 
 ## iCuts 3.0 planned features
