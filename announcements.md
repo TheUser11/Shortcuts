@@ -4,3 +4,4 @@
 > - LiCuts will be no more on May 30 at 10:00 PM UTC. LiCuts will still be available after this day.
 > - Rouge Siri 2 has been released!
 > - Rouge Siri 3 development begins
+> - So sorry for the CoolAccount system not working! It should be working now!
