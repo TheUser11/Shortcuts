@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Translation Fun | Beta",
+        "friendlyName": "Translation Fun",
+        "description": "Add a drop of entertainment, just by typing a few sentences!",
+        "author": "The User",
+        "category": "entertainment",
+        "version": 0.1,
+        "feature_requirements": [],
+        "min_os_version": 2.2776,
+        "max_os_version": 999999,
+        "installedSize": 9336,
+        "downloadSize": 3148,
+        "depends": [],
+        "iconFiles": {
+            "32x32": "$REPO_PATH$/dist/s/smoothie/icon32.png",
+            "16x16": "$REPO_PATH$/dist/s/smoothie/icon16.png"
+        },
+        "packageRoot": "$REPO_PATH$/dist/s/smoothie"
+    }
+]
