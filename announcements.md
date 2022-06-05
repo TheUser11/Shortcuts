@@ -6,3 +6,4 @@
 > - [Rouge Siri | The Beginning](https://routinehub.co/download/33427/) out now! Find out how Siri became so evil.
 > - iCuts 3.0 has been released on ShareShortcuts!
 > - CoolGuy Account Hub has been released on ShareShorcuts!
+> - CoolGuy Mail will release today at 12:00!
