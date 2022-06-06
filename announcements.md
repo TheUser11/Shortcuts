@@ -8,3 +8,4 @@
 > - CoolGuy Account Hub has been released on ShareShorcuts!
 > - [CoolGuy Mail](https://routinehub.co/download/33450/) has been released!
 > - [CoolGuy Account Hub](https://routinehub.co/download/33452/) 2.3 has also been released.
+> - iCuts 3.1 has been released!
