@@ -1,4 +1,4 @@
-###### Annoucements
+## Annoucements
 
 > - iControl 1.7 has been released!
 > - iCuts will be merged with iControl and iCuts will only get security updates and improvements. (approx. 6/20/22)
