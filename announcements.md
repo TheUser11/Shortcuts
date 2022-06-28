@@ -1,4 +1,4 @@
-## Annoucements
+## Announcements
 
 > - iControl 1.7 has been released!
 > - iCuts will be merged with iControl and iCuts will only get security updates and improvements. (approx. 6/20/22)
@@ -6,5 +6,5 @@
 > - LiCuts has been re-released into @dante_nl's [Centre](https://routinehub.co/shortcut/8600/)!
 
 
-# Huge Annoucements
+# Huge Announcements
 > - Translation Fun will return on July 1st!
