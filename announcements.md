@@ -4,4 +4,4 @@
 > - Since the announcement of iOS 16, my shortcuts will be updated for iOS 15 until about a month after the release of iOS 16.
 > - Rogue Siri 4 has been delayed indefinitely.
 > - Lightning Updater 3.2 is in development!
-> - Publish shortcuts to [ShortStore](https://routinehub.co/download/34331/) today!
+> - Until further notice, ShortStore will shut down on October 30th.
