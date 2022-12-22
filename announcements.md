@@ -9,7 +9,7 @@
 
 # 2023 Roadmap
 > - Rogue Siri 3 will recieve one final expansion.
-> - iCuts 3.2 to be released 
+> - iCuts Codename: Re-Imagine may come out sometime in 2023. 
 > - Lightning Updater 3.2 to be released.
 > - Rogue Siri 4 may be released.
 > - Other unannounced projects may be released.
