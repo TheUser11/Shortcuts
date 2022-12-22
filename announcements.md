@@ -4,7 +4,6 @@
 > - iCuts has been merged with iControl for a while, and I have decided to not release a standalone version of iCuts Codname: Re-Imagine. The standalone version will only recieve small bug fix or security updates.
 > - iOS 15 support has ended Please update to iOS 16 for further use of my Shortcuts.
 > - Due to inconveniences with Glitch, all things using Glitch will be moved to Replit. coolaccount.glitch.me will be shut down on December 31st, 2023. Creating an acocunt on coolaccount.glitch.me is no longer possible.
-> - iCuts 3.2 development has been reset.
 
 
 # 2023 Roadmap
