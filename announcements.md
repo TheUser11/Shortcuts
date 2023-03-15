@@ -5,8 +5,7 @@
 
 
 # 2023 Roadmap
-> - Rogue Siri 3 will recieve one final expansion.
+> - Rogue Siri has been delayed indefinitely.
 > - iCuts will be completely replaced sometime soon.
 > - Lightning Updater 3.2 to be released.
-> - Rogue Siri 4 may be released.
 > - Other unannounced projects may be released.
